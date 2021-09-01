@@ -16,7 +16,7 @@ To begin
   * Notice that nothing happens when you click `Buy` buttons on the home page
   * See that the sample friend's deck has cards, but the user's deck does not
   * These are the gaps you will close!
-* Commit this version before you make changes to a *GitHub* repo in your account
+* Commit this version before you make changes to a _GitHub_ repo in your account
 * Look through the code for the components, including UI and react-router setup
 
 In particular, you should be looking for functionality gaps, such as the `const`
